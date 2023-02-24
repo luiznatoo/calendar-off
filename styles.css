@@ -148,11 +148,11 @@ box-shadow: none;
 }
 footer{
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
 }
 footer p{
   color: #252525;
-  font-size: 1.125em;
+  font-size: 0.7em;
 }
 footer p a{
   text-decoration: none;
