@@ -147,12 +147,12 @@ box-shadow: none;
 }
 }
 footer{
-  position: absolute;
-  bottom: 20px;
+  margin-bottom: 20px;
+
 }
 footer p{
   color: #252525;
-  font-size: 0.7em;
+  font-size: 0.5em;
 }
 footer p a{
   text-decoration: none;
